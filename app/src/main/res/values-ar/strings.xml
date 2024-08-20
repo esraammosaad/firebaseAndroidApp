@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Existing strings -->
+    <string name="app_name">FirebaseAndroidProj</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="dont">ليس</string>
+    <string name="have_account"> لديك حساب؟</string>
+    <string name="login_with_facebook">تسجيل الدخول باستخدام فيسبوك</string>
+    <string name="login_with_google">تسجيل الدخول باستخدام جوجل</string>
+    <string name="already">لديك حساب بالفعل</string>
+    <string name="signup">تسجيل</string>
+    <string name="hello">مرحبا</string>
+    <string name="chooselang">أختر اللغة</string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="logoutSuccess">لقد تم تسجيل الخروج بنجاح</string>
+
+
+    <string name="web_client_id">25235536116-aatu0vnsbeessjo52e3mv7rch562i0f0.apps.googleusercontent.com</string>
+
+
+</resources>

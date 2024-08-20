@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "25235536116",
+    "firebase_url": "https://myfirstandroidapp-c9100-default-rtdb.firebaseio.com",
+    "project_id": "myfirstandroidapp-c9100",
+    "storage_bucket": "myfirstandroidapp-c9100.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25235536116:android:30184eb0a4a5dedd2b06a1",
+        "android_client_info": {
+          "package_name": "com.example.firebaseandroidproj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVFQfaKdoNzza4q1IR1mN-82kQ9na-CWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

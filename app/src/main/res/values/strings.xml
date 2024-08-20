@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Existing strings -->
+    <string name="app_name">FirebaseAndroidProj</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="dont">Don\'t</string>
+    <string name="have_account"> have an account?</string>
+    <string name="login_with_facebook">Login with Facebook</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="already">Already</string>
+    <string name="signup">Sign Up</string>
+    <string name="hello">Hello</string>
+    <string name="chooselang">Choose Language</string>
+    <string name="logout">Log Out</string>
+    <string name="logoutSuccess">You Log Out Successfully</string>
+    <string name="web_client_id">25235536116-aatu0vnsbeessjo52e3mv7rch562i0f0.apps.googleusercontent.com</string>
+</resources>
